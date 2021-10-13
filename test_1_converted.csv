@@ -1,0 +1,37 @@
+0, 0, Header, 1, 1, 480
+1, 0, Start_track
+1, 0, Title_t, "Addictive Keys"
+1, 0, Note_on_c, 0, 60, 102
+1, 480, Note_off_c, 0, 60, 102
+1, 480, Note_on_c, 0, 64, 102
+1, 960, Note_off_c, 0, 64, 102
+1, 960, Note_on_c, 0, 67, 102
+1, 1440, Note_off_c, 0, 67, 102
+1, 1440, Note_on_c, 0, 71, 102
+1, 1920, Note_off_c, 0, 71, 102
+1, 1920, Note_on_c, 0, 72, 102
+1, 2040, Note_off_c, 0, 72, 102
+1, 2040, Note_on_c, 0, 71, 102
+1, 2160, Note_off_c, 0, 71, 102
+1, 2160, Note_on_c, 0, 70, 102
+1, 2280, Note_off_c, 0, 70, 102
+1, 2280, Note_on_c, 0, 69, 102
+1, 2400, Note_off_c, 0, 69, 102
+1, 2400, Note_on_c, 0, 68, 102
+1, 2520, Note_off_c, 0, 68, 102
+1, 2520, Note_on_c, 0, 67, 102
+1, 2640, Note_off_c, 0, 67, 102
+1, 2640, Note_on_c, 0, 66, 102
+1, 2760, Note_off_c, 0, 66, 102
+1, 2760, Note_on_c, 0, 65, 102
+1, 2880, Note_off_c, 0, 65, 102
+1, 3120, Note_on_c, 0, 63, 102
+1, 3240, Note_off_c, 0, 63, 102
+1, 3240, Note_on_c, 0, 62, 102
+1, 3360, Note_off_c, 0, 62, 102
+1, 3360, Note_on_c, 0, 61, 102
+1, 3480, Note_off_c, 0, 61, 102
+1, 3600, Note_on_c, 0, 62, 102
+1, 3840, Note_off_c, 0, 62, 102
+1, 3840, End_track
+0, 0, End_of_file

@@ -1,0 +1,573 @@
+0, 0, Header, 1, 3, 960
+1, 0, Start_track
+1, 0, Time_signature, 3, 2, 24, 8
+1, 0, Key_signature, -3, "minor"
+1, 0, Tempo, 666666
+1, 0, Title_t, "Serenade"
+1, 0, Text_t, "Franz Schuert"
+1, 0, Copyright_t, "Aryan Naghedi"
+1, 233280, Time_signature, 9, 3, 36, 8
+1, 233281, End_track
+2, 0, Start_track
+2, 0, Program_c, 1, 52
+2, 0, Control_c, 1, 121, 0
+2, 0, Control_c, 1, 64, 0
+2, 0, Control_c, 1, 91, 48
+2, 0, Control_c, 1, 10, 64
+2, 0, Control_c, 1, 7, 127
+2, 0, Title_t, "Voice"
+2, 11520, Lyric_t, "Lei"
+2, 11520, Note_on_c, 1, 67, 52
+2, 11839, Note_on_c, 1, 68, 63
+2, 11843, Note_off_c, 1, 67, 0
+2, 12139, Note_off_c, 1, 68, 0
+2, 12158, Lyric_t, "se "
+2, 12158, Note_on_c, 1, 67, 56
+2, 12480, Note_off_c, 1, 67, 0
+2, 12480, Lyric_t, "fle"
+2, 12480, Note_on_c, 1, 72, 67
+2, 13920, Note_off_c, 1, 72, 0
+2, 13920, Lyric_t, "hen "
+2, 13920, Note_on_c, 1, 67, 53
+2, 14400, Note_off_c, 1, 67, 0
+2, 14400, Lyric_t, "mei"
+2, 14400, Note_on_c, 1, 65, 60
+2, 14719, Note_on_c, 1, 67, 66
+2, 14723, Note_off_c, 1, 65, 0
+2, 15019, Note_off_c, 1, 67, 0
+2, 15038, Lyric_t, "ne "
+2, 15038, Note_on_c, 1, 65, 59
+2, 15360, Note_off_c, 1, 65, 0
+2, 15360, Lyric_t, "Lie"
+2, 15360, Note_on_c, 1, 72, 70
+2, 16320, Note_off_c, 1, 72, 0
+2, 16320, Lyric_t, "der "
+2, 16320, Note_on_c, 1, 65, 52
+2, 16800, Note_off_c, 1, 65, 0
+2, 17280, Lyric_t, "Durch "
+2, 17280, Note_on_c, 1, 67, 66
+2, 18720, Note_off_c, 1, 67, 0
+2, 18720, Lyric_t, "die "
+2, 18720, Note_on_c, 1, 65, 53
+2, 19200, Note_off_c, 1, 65, 0
+2, 19200, Lyric_t, "Nacht "
+2, 19200, Note_on_c, 1, 65, 60
+2, 19519, Note_on_c, 1, 63, 58
+2, 19523, Note_off_c, 1, 65, 0
+2, 19819, Note_off_c, 1, 63, 0
+2, 19838, Lyric_t, "zu "
+2, 19838, Note_on_c, 1, 62, 56
+2, 20160, Note_off_c, 1, 62, 0
+2, 20160, Lyric_t, "dir; "
+2, 20160, Note_on_c, 1, 63, 63
+2, 22080, Note_off_c, 1, 63, 0
+2, 28800, Lyric_t, "In "
+2, 28800, Note_on_c, 1, 67, 55
+2, 29119, Note_on_c, 1, 68, 58
+2, 29123, Note_off_c, 1, 67, 0
+2, 29419, Note_off_c, 1, 68, 0
+2, 29438, Lyric_t, "den "
+2, 29438, Note_on_c, 1, 67, 59
+2, 29760, Note_off_c, 1, 67, 0
+2, 29760, Lyric_t, "stil"
+2, 29760, Note_on_c, 1, 75, 73
+2, 31200, Note_off_c, 1, 75, 0
+2, 31200, Lyric_t, "len "
+2, 31200, Note_on_c, 1, 67, 51
+2, 31680, Note_off_c, 1, 67, 0
+2, 31680, Lyric_t, "Hain "
+2, 31680, Note_on_c, 1, 65, 56
+2, 31999, Note_on_c, 1, 67, 63
+2, 32003, Note_off_c, 1, 65, 0
+2, 32299, Note_off_c, 1, 67, 0
+2, 32318, Lyric_t, "her"
+2, 32318, Note_on_c, 1, 65, 57
+2, 32640, Note_off_c, 1, 65, 0
+2, 32640, Lyric_t, "nie"
+2, 32640, Note_on_c, 1, 74, 75
+2, 34080, Note_off_c, 1, 74, 0
+2, 34080, Lyric_t, "der, "
+2, 34080, Note_on_c, 1, 72, 58
+2, 34560, Note_off_c, 1, 72, 0
+2, 34560, Lyric_t, "Lieb"
+2, 34560, Note_on_c, 1, 70, 59
+2, 36000, Note_off_c, 1, 70, 0
+2, 36000, Lyric_t, "chen, "
+2, 36000, Note_on_c, 1, 68, 58
+2, 36480, Note_off_c, 1, 68, 0
+2, 36480, Lyric_t, "komm "
+2, 36480, Note_on_c, 1, 68, 60
+2, 36799, Note_on_c, 1, 67, 59
+2, 36803, Note_off_c, 1, 68, 0
+2, 37099, Note_off_c, 1, 67, 0
+2, 37118, Lyric_t, "zu "
+2, 37118, Note_on_c, 1, 65, 55
+2, 37440, Note_off_c, 1, 65, 0
+2, 37440, Lyric_t, "mir! "
+2, 37440, Note_on_c, 1, 67, 65
+2, 39360, Note_off_c, 1, 67, 0
+2, 46080, Lyric_t, "Fl\374s"
+2, 46080, Note_on_c, 1, 67, 55
+2, 46800, Note_off_c, 1, 67, 0
+2, 46800, Lyric_t, "ternd "
+2, 46800, Note_on_c, 1, 71, 62
+2, 47040, Note_off_c, 1, 71, 0
+2, 47040, Lyric_t, "schlan"
+2, 47040, Note_on_c, 1, 75, 68
+2, 48480, Note_off_c, 1, 75, 0
+2, 48480, Lyric_t, "ke "
+2, 48480, Note_on_c, 1, 74, 57
+2, 48960, Note_off_c, 1, 74, 0
+2, 48960, Lyric_t, "Wi"
+2, 48960, Note_on_c, 1, 72, 53
+2, 49680, Note_off_c, 1, 72, 0
+2, 49680, Lyric_t, "pfel "
+2, 49680, Note_on_c, 1, 67, 50
+2, 49920, Note_off_c, 1, 67, 0
+2, 49920, Lyric_t, "rau"
+2, 49920, Note_on_c, 1, 63, 51
+2, 51360, Note_off_c, 1, 63, 0
+2, 51360, Lyric_t, "schen "
+2, 51360, Note_on_c, 1, 60, 51
+2, 51713, Note_off_c, 1, 60, 0
+2, 51713, Note_on_c, 1, 68, 59
+2, 51773, Note_on_c, 1, 70, 59
+2, 51840, Lyric_t, "In "
+2, 51840, Note_off_c, 1, 68, 0
+2, 51840, Note_off_c, 1, 70, 0
+2, 51840, Note_on_c, 1, 68, 57
+2, 52140, Note_off_c, 1, 68, 0
+2, 52159, Note_on_c, 1, 67, 57
+2, 52478, Note_off_c, 1, 67, 0
+2, 52478, Lyric_t, "des "
+2, 52478, Note_on_c, 1, 68, 65
+2, 52800, Note_off_c, 1, 68, 0
+2, 52800, Lyric_t, "Mon"
+2, 52800, Note_on_c, 1, 72, 67
+2, 54240, Note_off_c, 1, 72, 0
+2, 54240, Lyric_t, "des "
+2, 54240, Note_on_c, 1, 68, 56
+2, 54720, Note_off_c, 1, 68, 0
+2, 54720, Lyric_t, "Licht; "
+2, 54720, Note_on_c, 1, 67, 56
+2, 57473, Note_off_c, 1, 67, 0
+2, 57473, Note_on_c, 1, 65, 58
+2, 57533, Note_on_c, 1, 67, 58
+2, 57600, Lyric_t, "in "
+2, 57600, Note_off_c, 1, 65, 0
+2, 57600, Note_off_c, 1, 67, 0
+2, 57600, Note_on_c, 1, 65, 54
+2, 57904, Note_off_c, 1, 65, 0
+2, 57919, Note_on_c, 1, 64, 57
+2, 58219, Note_off_c, 1, 64, 0
+2, 58238, Lyric_t, "des "
+2, 58238, Note_on_c, 1, 65, 63
+2, 58560, Note_off_c, 1, 65, 0
+2, 58560, Lyric_t, "Mon"
+2, 58560, Note_on_c, 1, 68, 68
+2, 60000, Note_off_c, 1, 68, 0
+2, 60000, Lyric_t, "des "
+2, 60000, Note_on_c, 1, 65, 58
+2, 60480, Note_off_c, 1, 65, 0
+2, 60480, Lyric_t, "Licht: "
+2, 60480, Note_on_c, 1, 63, 61
+2, 63360, Note_off_c, 1, 63, 0
+2, 63360, Lyric_t, "Des "
+2, 63360, Note_on_c, 1, 67, 72
+2, 64080, Note_off_c, 1, 67, 0
+2, 64080, Lyric_t, "Ver"
+2, 64080, Note_on_c, 1, 71, 72
+2, 64320, Note_off_c, 1, 71, 0
+2, 64320, Lyric_t, "r\344"
+2, 64320, Note_on_c, 1, 75, 66
+2, 65760, Note_off_c, 1, 75, 0
+2, 65760, Lyric_t, "ters "
+2, 65760, Note_on_c, 1, 74, 57
+2, 66240, Note_off_c, 1, 74, 0
+2, 66240, Lyric_t, "feind"
+2, 66240, Note_on_c, 1, 72, 56
+2, 66960, Note_off_c, 1, 72, 0
+2, 66960, Lyric_t, "lich "
+2, 66960, Note_on_c, 1, 67, 51
+2, 67200, Note_off_c, 1, 67, 0
+2, 67200, Lyric_t, "Lau"
+2, 67200, Note_on_c, 1, 64, 54
+2, 68640, Note_off_c, 1, 64, 0
+2, 68640, Lyric_t, "schen "
+2, 68640, Note_on_c, 1, 60, 49
+2, 68989, Note_off_c, 1, 60, 0
+2, 68989, Note_on_c, 1, 69, 64
+2, 69053, Note_on_c, 1, 71, 64
+2, 69120, Lyric_t, "F\374rch"
+2, 69120, Note_off_c, 1, 69, 0
+2, 69120, Note_off_c, 1, 71, 0
+2, 69120, Note_on_c, 1, 69, 57
+2, 69424, Note_off_c, 1, 69, 0
+2, 69439, Note_on_c, 1, 68, 60
+2, 69739, Note_off_c, 1, 68, 0
+2, 69758, Lyric_t, "te, "
+2, 69758, Note_on_c, 1, 69, 67
+2, 70080, Note_off_c, 1, 69, 0
+2, 70080, Lyric_t, "Hol"
+2, 70080, Note_on_c, 1, 72, 64
+2, 71520, Note_off_c, 1, 72, 0
+2, 71520, Lyric_t, "de, "
+2, 71520, Note_on_c, 1, 69, 58
+2, 72000, Note_off_c, 1, 69, 0
+2, 72000, Lyric_t, "nicht. "
+2, 72000, Note_on_c, 1, 67, 57
+2, 74880, Note_off_c, 1, 67, 0
+2, 74880, Lyric_t, "F\374rch"
+2, 74880, Note_on_c, 1, 74, 114
+2, 75199, Note_on_c, 1, 73, 91
+2, 75203, Note_off_c, 1, 74, 0
+2, 75499, Note_off_c, 1, 73, 0
+2, 75518, Lyric_t, "te, "
+2, 75518, Note_on_c, 1, 74, 98
+2, 75840, Note_off_c, 1, 74, 0
+2, 75840, Lyric_t, "Hol"
+2, 75840, Note_on_c, 1, 77, 109
+2, 77280, Note_off_c, 1, 77, 0
+2, 77280, Lyric_t, "de, "
+2, 77280, Note_on_c, 1, 71, 88
+2, 77760, Note_off_c, 1, 71, 0
+2, 77760, Lyric_t, "nicht. "
+2, 77760, Note_on_c, 1, 72, 99
+2, 80640, Note_off_c, 1, 72, 0
+2, 103680, Lyric_t, "H\366rst "
+2, 103680, Note_on_c, 1, 67, 54
+2, 103999, Note_on_c, 1, 68, 60
+2, 104003, Note_off_c, 1, 67, 0
+2, 104299, Note_off_c, 1, 68, 0
+2, 104318, Lyric_t, "die "
+2, 104318, Note_on_c, 1, 67, 60
+2, 104640, Note_off_c, 1, 67, 0
+2, 104640, Lyric_t, "Nach"
+2, 104640, Note_on_c, 1, 72, 69
+2, 106080, Note_off_c, 1, 72, 0
+2, 106080, Lyric_t, "ti"
+2, 106080, Note_on_c, 1, 67, 53
+2, 106560, Note_off_c, 1, 67, 0
+2, 106560, Lyric_t, "gal"
+2, 106560, Note_on_c, 1, 65, 58
+2, 106879, Note_on_c, 1, 67, 63
+2, 106883, Note_off_c, 1, 65, 0
+2, 107179, Note_off_c, 1, 67, 0
+2, 107198, Lyric_t, "len "
+2, 107198, Note_on_c, 1, 65, 57
+2, 107520, Note_off_c, 1, 65, 0
+2, 107520, Lyric_t, "schla"
+2, 107520, Note_on_c, 1, 72, 70
+2, 108480, Note_off_c, 1, 72, 0
+2, 108480, Lyric_t, "gen? "
+2, 108480, Note_on_c, 1, 65, 54
+2, 108960, Note_off_c, 1, 65, 0
+2, 109440, Lyric_t, "Ach! "
+2, 109440, Note_on_c, 1, 67, 64
+2, 110880, Note_off_c, 1, 67, 0
+2, 110880, Lyric_t, "sie "
+2, 110880, Note_on_c, 1, 65, 55
+2, 111360, Note_off_c, 1, 65, 0
+2, 111360, Lyric_t, "fle"
+2, 111360, Note_on_c, 1, 65, 60
+2, 111679, Note_on_c, 1, 63, 57
+2, 111683, Note_off_c, 1, 65, 0
+2, 111979, Note_off_c, 1, 63, 0
+2, 111998, Lyric_t, "hen "
+2, 111998, Note_on_c, 1, 62, 57
+2, 112320, Note_off_c, 1, 62, 0
+2, 112320, Lyric_t, "dich, "
+2, 112320, Note_on_c, 1, 63, 64
+2, 114240, Note_off_c, 1, 63, 0
+2, 120960, Lyric_t, "Mit "
+2, 120960, Note_on_c, 1, 67, 54
+2, 121279, Note_on_c, 1, 68, 66
+2, 121283, Note_off_c, 1, 67, 0
+2, 121579, Note_off_c, 1, 68, 0
+2, 121598, Lyric_t, "der "
+2, 121598, Note_on_c, 1, 67, 60
+2, 121920, Note_off_c, 1, 67, 0
+2, 121920, Lyric_t, "T\366"
+2, 121920, Note_on_c, 1, 75, 70
+2, 123360, Note_off_c, 1, 75, 0
+2, 123360, Lyric_t, "ne "
+2, 123360, Note_on_c, 1, 67, 53
+2, 123840, Note_off_c, 1, 67, 0
+2, 123840, Lyric_t, "s\374"
+2, 123840, Note_on_c, 1, 65, 51
+2, 124159, Note_on_c, 1, 67, 66
+2, 124163, Note_off_c, 1, 65, 0
+2, 124459, Note_off_c, 1, 67, 0
+2, 124478, Lyric_t, "\337en "
+2, 124478, Note_on_c, 1, 65, 57
+2, 124800, Note_off_c, 1, 65, 0
+2, 124800, Lyric_t, "Kla"
+2, 124800, Note_on_c, 1, 74, 73
+2, 126240, Note_off_c, 1, 74, 0
+2, 126240, Lyric_t, "gen "
+2, 126240, Note_on_c, 1, 72, 59
+2, 126720, Note_off_c, 1, 72, 0
+2, 126720, Lyric_t, "Fle"
+2, 126720, Note_on_c, 1, 70, 61
+2, 128160, Note_off_c, 1, 70, 0
+2, 128160, Lyric_t, "hen "
+2, 128160, Note_on_c, 1, 68, 60
+2, 128640, Note_off_c, 1, 68, 0
+2, 128640, Lyric_t, "sie "
+2, 128640, Note_on_c, 1, 68, 60
+2, 128959, Note_on_c, 1, 67, 60
+2, 128963, Note_off_c, 1, 68, 0
+2, 129259, Note_off_c, 1, 67, 0
+2, 129278, Lyric_t, "f\374r "
+2, 129278, Note_on_c, 1, 65, 58
+2, 129600, Note_off_c, 1, 65, 0
+2, 129600, Lyric_t, "mich. "
+2, 129600, Note_on_c, 1, 67, 64
+2, 131520, Note_off_c, 1, 67, 0
+2, 138240, Lyric_t, "Sie "
+2, 138240, Note_on_c, 1, 67, 55
+2, 138960, Note_off_c, 1, 67, 0
+2, 138960, Lyric_t, "ver"
+2, 138960, Note_on_c, 1, 71, 72
+2, 139200, Note_off_c, 1, 71, 0
+2, 139200, Lyric_t, "stehn "
+2, 139200, Note_on_c, 1, 75, 66
+2, 140640, Note_off_c, 1, 75, 0
+2, 140640, Lyric_t, "des "
+2, 140640, Note_on_c, 1, 74, 58
+2, 141120, Note_off_c, 1, 74, 0
+2, 141120, Lyric_t, "Bu"
+2, 141120, Note_on_c, 1, 72, 56
+2, 141840, Note_off_c, 1, 72, 0
+2, 141840, Lyric_t, "sens "
+2, 141840, Note_on_c, 1, 67, 53
+2, 142080, Note_off_c, 1, 67, 0
+2, 142080, Lyric_t, "Seh"
+2, 142080, Note_on_c, 1, 63, 55
+2, 143520, Note_off_c, 1, 63, 0
+2, 143520, Lyric_t, "nen, "
+2, 143520, Note_on_c, 1, 60, 53
+2, 143873, Note_off_c, 1, 60, 0
+2, 143873, Note_on_c, 1, 68, 61
+2, 143933, Note_on_c, 1, 70, 61
+2, 144000, Lyric_t, "Ken"
+2, 144000, Note_off_c, 1, 68, 0
+2, 144000, Note_off_c, 1, 70, 0
+2, 144000, Note_on_c, 1, 68, 58
+2, 144304, Note_off_c, 1, 68, 0
+2, 144319, Note_on_c, 1, 67, 57
+2, 144619, Note_off_c, 1, 67, 0
+2, 144638, Lyric_t, "nen "
+2, 144638, Note_on_c, 1, 68, 62
+2, 144960, Note_off_c, 1, 68, 0
+2, 144960, Lyric_t, "Lie"
+2, 144960, Note_on_c, 1, 72, 70
+2, 146400, Note_off_c, 1, 72, 0
+2, 146400, Lyric_t, "bes"
+2, 146400, Note_on_c, 1, 68, 53
+2, 146880, Note_off_c, 1, 68, 0
+2, 146880, Lyric_t, "schmerz, "
+2, 146880, Note_on_c, 1, 67, 55
+2, 149633, Note_off_c, 1, 67, 0
+2, 149633, Note_on_c, 1, 65, 56
+2, 149693, Note_on_c, 1, 67, 56
+2, 149760, Lyric_t, "Ken"
+2, 149760, Note_off_c, 1, 65, 0
+2, 149760, Note_off_c, 1, 67, 0
+2, 149760, Note_on_c, 1, 65, 58
+2, 150064, Note_off_c, 1, 65, 0
+2, 150079, Note_on_c, 1, 64, 62
+2, 150379, Note_off_c, 1, 64, 0
+2, 150398, Lyric_t, "nen "
+2, 150398, Note_on_c, 1, 65, 61
+2, 150720, Note_off_c, 1, 65, 0
+2, 150720, Lyric_t, "Lie"
+2, 150720, Note_on_c, 1, 68, 72
+2, 152160, Note_off_c, 1, 68, 0
+2, 152160, Lyric_t, "bes"
+2, 152160, Note_on_c, 1, 65, 60
+2, 152640, Note_off_c, 1, 65, 0
+2, 152640, Lyric_t, "schmerz, "
+2, 152640, Note_on_c, 1, 63, 57
+2, 155520, Note_off_c, 1, 63, 0
+2, 155520, Lyric_t, "R\374h"
+2, 155520, Note_on_c, 1, 67, 65
+2, 156240, Note_off_c, 1, 67, 0
+2, 156240, Lyric_t, "ren "
+2, 156240, Note_on_c, 1, 71, 65
+2, 156480, Note_off_c, 1, 71, 0
+2, 156480, Lyric_t, "mit "
+2, 156480, Note_on_c, 1, 75, 69
+2, 157920, Note_off_c, 1, 75, 0
+2, 157920, Lyric_t, "den "
+2, 157920, Note_on_c, 1, 74, 60
+2, 158400, Note_off_c, 1, 74, 0
+2, 158400, Lyric_t, "Sil"
+2, 158400, Note_on_c, 1, 72, 58
+2, 159120, Note_off_c, 1, 72, 0
+2, 159120, Lyric_t, "ber"
+2, 159120, Note_on_c, 1, 67, 52
+2, 159360, Note_off_c, 1, 67, 0
+2, 159360, Lyric_t, "t\366"
+2, 159360, Note_on_c, 1, 64, 59
+2, 160800, Note_off_c, 1, 64, 0
+2, 160800, Lyric_t, "nen "
+2, 160800, Note_on_c, 1, 60, 52
+2, 161149, Note_off_c, 1, 60, 0
+2, 161149, Note_on_c, 1, 69, 57
+2, 161213, Note_on_c, 1, 71, 57
+2, 161280, Lyric_t, "Je"
+2, 161280, Note_off_c, 1, 69, 0
+2, 161280, Note_off_c, 1, 71, 0
+2, 161280, Note_on_c, 1, 69, 60
+2, 161584, Note_off_c, 1, 69, 0
+2, 161599, Note_on_c, 1, 68, 56
+2, 161899, Note_off_c, 1, 68, 0
+2, 161918, Lyric_t, "des "
+2, 161918, Note_on_c, 1, 69, 65
+2, 162240, Note_off_c, 1, 69, 0
+2, 162240, Lyric_t, "wei"
+2, 162240, Note_on_c, 1, 72, 72
+2, 163680, Note_off_c, 1, 72, 0
+2, 163680, Lyric_t, "che "
+2, 163680, Note_on_c, 1, 69, 58
+2, 164160, Note_off_c, 1, 69, 0
+2, 164160, Lyric_t, "Herz. "
+2, 164160, Note_on_c, 1, 67, 60
+2, 167040, Note_off_c, 1, 67, 0
+2, 167040, Lyric_t, "je"
+2, 167040, Note_on_c, 1, 74, 114
+2, 167359, Note_on_c, 1, 73, 101
+2, 167363, Note_off_c, 1, 74, 0
+2, 167659, Note_off_c, 1, 73, 0
+2, 167678, Lyric_t, "des "
+2, 167678, Note_on_c, 1, 74, 105
+2, 168000, Note_off_c, 1, 74, 0
+2, 168000, Lyric_t, "wei"
+2, 168000, Note_on_c, 1, 77, 105
+2, 169440, Note_off_c, 1, 77, 0
+2, 169440, Lyric_t, "che "
+2, 169440, Note_on_c, 1, 71, 84
+2, 169920, Note_off_c, 1, 71, 0
+2, 169920, Lyric_t, "Herz. "
+2, 169920, Note_on_c, 1, 72, 104
+2, 172800, Note_off_c, 1, 72, 0
+2, 172800, Lyric_t, "La\337 "
+2, 172800, Note_on_c, 1, 67, 87
+2, 173520, Note_off_c, 1, 67, 0
+2, 173520, Lyric_t, "auch "
+2, 173520, Note_on_c, 1, 67, 99
+2, 173760, Note_off_c, 1, 67, 0
+2, 173760, Lyric_t, "dir "
+2, 173760, Note_on_c, 1, 71, 110
+2, 174480, Note_off_c, 1, 71, 0
+2, 174480, Lyric_t, "die "
+2, 174480, Note_on_c, 1, 71, 100
+2, 174720, Note_off_c, 1, 71, 0
+2, 174720, Lyric_t, "Brust "
+2, 174720, Note_on_c, 1, 74, 106
+2, 175440, Note_off_c, 1, 74, 0
+2, 175440, Lyric_t, "be"
+2, 175440, Note_on_c, 1, 74, 102
+2, 175680, Note_off_c, 1, 74, 0
+2, 175680, Lyric_t, "we"
+2, 175680, Note_on_c, 1, 72, 88
+2, 176640, Note_off_c, 1, 72, 0
+2, 176640, Lyric_t, "gen, "
+2, 176640, Note_on_c, 1, 71, 91
+2, 177600, Note_off_c, 1, 71, 0
+2, 178560, Lyric_t, "Lieb"
+2, 178560, Note_on_c, 1, 67, 87
+2, 180000, Note_off_c, 1, 67, 0
+2, 180000, Lyric_t, "chen, "
+2, 180000, Note_on_c, 1, 71, 107
+2, 180480, Note_off_c, 1, 71, 0
+2, 180480, Lyric_t, "h\366"
+2, 180480, Note_on_c, 1, 74, 105
+2, 181200, Note_off_c, 1, 74, 0
+2, 181200, Lyric_t, "re "
+2, 181200, Note_on_c, 1, 72, 94
+2, 181440, Note_off_c, 1, 72, 0
+2, 181440, Lyric_t, "mich! "
+2, 181440, Note_on_c, 1, 71, 88
+2, 183360, Note_off_c, 1, 71, 0
+2, 184320, Lyric_t, "Be"
+2, 184320, Note_on_c, 1, 76, 89
+2, 185760, Note_off_c, 1, 76, 0
+2, 185760, Lyric_t, "bend "
+2, 185760, Note_on_c, 1, 74, 93
+2, 186240, Note_off_c, 1, 74, 0
+2, 186240, Lyric_t, "harr' "
+2, 186240, Note_on_c, 1, 74, 94
+2, 186559, Note_on_c, 1, 72, 95
+2, 186563, Note_off_c, 1, 74, 0
+2, 186859, Note_off_c, 1, 72, 0
+2, 186878, Lyric_t, "ich "
+2, 186878, Note_on_c, 1, 71, 88
+2, 187200, Note_off_c, 1, 71, 0
+2, 187200, Lyric_t, "dir "
+2, 187200, Note_on_c, 1, 69, 88
+2, 187920, Note_off_c, 1, 69, 0
+2, 187920, Lyric_t, "ent"
+2, 187920, Note_on_c, 1, 71, 108
+2, 188160, Note_off_c, 1, 71, 0
+2, 188160, Lyric_t, "ge"
+2, 188160, Note_on_c, 1, 72, 124
+2, 189120, Note_off_c, 1, 72, 0
+2, 189120, Lyric_t, "gen! "
+2, 189120, Note_on_c, 1, 69, 91
+2, 189600, Note_off_c, 1, 69, 0
+2, 195709, Note_on_c, 1, 69, 59
+2, 195773, Note_on_c, 1, 71, 59
+2, 195840, Lyric_t, "Komm, "
+2, 195840, Note_off_c, 1, 69, 0
+2, 195840, Note_off_c, 1, 71, 0
+2, 195840, Note_on_c, 1, 69, 59
+2, 196144, Note_off_c, 1, 69, 0
+2, 196159, Note_on_c, 1, 68, 53
+2, 196459, Note_off_c, 1, 68, 0
+2, 196478, Lyric_t, "be"
+2, 196478, Note_on_c, 1, 69, 61
+2, 196800, Note_off_c, 1, 69, 0
+2, 196800, Lyric_t, "gl\374"
+2, 196800, Note_on_c, 1, 72, 68
+2, 198240, Note_off_c, 1, 72, 0
+2, 198240, Lyric_t, "cke "
+2, 198240, Note_on_c, 1, 69, 58
+2, 198720, Note_off_c, 1, 69, 0
+2, 198720, Lyric_t, "mich! "
+2, 198720, Note_on_c, 1, 67, 61
+2, 201600, Note_off_c, 1, 67, 0
+2, 201600, Lyric_t, "Komm, "
+2, 201600, Note_on_c, 1, 74, 116
+2, 201919, Note_on_c, 1, 73, 105
+2, 201923, Note_off_c, 1, 74, 0
+2, 202219, Note_off_c, 1, 73, 0
+2, 202238, Lyric_t, "be"
+2, 202238, Note_on_c, 1, 74, 103
+2, 202560, Note_off_c, 1, 74, 0
+2, 202560, Lyric_t, "gl\374"
+2, 202560, Note_on_c, 1, 77, 106
+2, 204000, Note_off_c, 1, 77, 0
+2, 204000, Lyric_t, "cke "
+2, 204000, Note_on_c, 1, 71, 85
+2, 204480, Note_off_c, 1, 71, 0
+2, 204480, Lyric_t, "mich! "
+2, 204480, Note_on_c, 1, 72, 104
+2, 208320, Note_off_c, 1, 72, 0
+2, 209280, Lyric_t, "be"
+2, 209280, Note_on_c, 1, 72, 85
+2, 210240, Note_off_c, 1, 72, 0
+2, 210240, Lyric_t, "gl\374"
+2, 210240, Note_on_c, 1, 68, 82
+2, 213120, Note_off_c, 1, 68, 0
+2, 213120, Lyric_t, "cke "
+2, 213120, Note_on_c, 1, 67, 73
+2, 216000, Note_off_c, 1, 67, 0
+2, 216000, Lyric_t, "mich! "
+2, 216000, Note_on_c, 1, 64, 56
+2, 217920, Note_off_c, 1, 64, 0
+2, 217921, End_track
+3, 0, Start_track
+3, 1, End_track
+0, 0, End_of_file
